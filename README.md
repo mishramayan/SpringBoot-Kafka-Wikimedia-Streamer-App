@@ -1,5 +1,3 @@
-# SpringBoot-Kafka-Wikimedia-Streamer-App
-
 # Real-Time Wikimedia Stream Processing with Kafka & MySQL
 
 A robust real-time data pipeline built with **Spring Boot** and **Apache Kafka** that consumes live recent change events from Wikimedia, streams them through a Kafka broker, and persists the data into a **MySQL** database.
