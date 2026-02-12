@@ -10,13 +10,15 @@
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
         </processorPath>
+        <module name="kafka-consumer-database" />
         <module name="kafka-producer-wikimedia" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="SpringBoot-Kafka-Wikimedia-Streamer-App" options="" />
+      <module name="SpringBoot-Kafka-Wikimedia-Streamer-App" options="-parameters" />
+      <module name="kafka-consumer-database" options="-parameters" />
       <module name="kafka-producer-wikimedia" options="-parameters" />
     </option>
   </component>

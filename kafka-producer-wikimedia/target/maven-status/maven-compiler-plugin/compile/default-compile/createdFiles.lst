@@ -1,1 +1,4 @@
 net/java/springboot/SpringBootProducerApplication.class
+net/java/springboot/KafkaTopicConfig.class
+net/java/springboot/WikimediaChangesProducer.class
+net/java/springboot/WikimediaChangesHandler.class

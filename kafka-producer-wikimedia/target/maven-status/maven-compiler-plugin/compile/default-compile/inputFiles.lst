@@ -1,1 +1,4 @@
+/Users/mayanmishra/Documents/SpringBoot-Kafka-Wikimedia-Streamer-App/kafka-producer-wikimedia/src/main/java/net/java/springboot/KafkaTopicConfig.java
 /Users/mayanmishra/Documents/SpringBoot-Kafka-Wikimedia-Streamer-App/kafka-producer-wikimedia/src/main/java/net/java/springboot/SpringBootProducerApplication.java
+/Users/mayanmishra/Documents/SpringBoot-Kafka-Wikimedia-Streamer-App/kafka-producer-wikimedia/src/main/java/net/java/springboot/WikimediaChangesHandler.java
+/Users/mayanmishra/Documents/SpringBoot-Kafka-Wikimedia-Streamer-App/kafka-producer-wikimedia/src/main/java/net/java/springboot/WikimediaChangesProducer.java
